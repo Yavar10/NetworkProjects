@@ -8,6 +8,15 @@ This repository is designed to help builders submit their projects that are bein
 If you have built a consumer-focused or developer-focused dApp on HeLa — this is where you showcase it.
 
 
+## What Happens After Submission?
+
+Projects submitted through this repository will be evaluated for:
+
+- 🏆 Hackathon Track Rewards  
+- 🚀 Testnet → Mainnet Transition Support  
+- 💰 Ecosystem Grant Opportunities  
+- 📢 Community & Institutional Marketing  
+
 
 ## 📌 Submission Guidelines
 
