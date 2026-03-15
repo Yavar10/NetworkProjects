@@ -5,6 +5,9 @@ An immersive, decentralized web browser and application gateway built for the ne
 ## ▶️Demo Youtube Link
 https://youtu.be/tfX2hKEimkA?si=cyxPvtFyo0JVyq-6
 
+## Live Demo Link
+https://web3browser-sooty.vercel.app/
+
 ## 🚀 Product Overview
 **What is our dApp about?**
 
